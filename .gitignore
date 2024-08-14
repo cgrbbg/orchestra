@@ -1,0 +1,11 @@
+arquivos/*
+log/*
+*/__pycache__/*
+*.exe
+.git/*
+*.txt
+*.out
+*.mod
+*.sum
+.env
+*.toml
